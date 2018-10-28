@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM arm32v7/ubuntu:16.04
 
 MAINTAINER Jérémy Jacquier-Roux <jeremy.jacquier-roux@bonitasoft.org>
 
